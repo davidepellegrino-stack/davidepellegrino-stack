@@ -4,7 +4,7 @@
 
 I build small, reproducible research projects in Python: market risk models and their backtests, event studies, and credit scoring. Everything below is open, runs end to end, and states its limits.
 
-**Looking for:** a quant, risk or data internship in Paris from June 2027.
+**Looking for:** a six-month internship in risk, quantitative or data roles in finance, from June 2027, in Paris or elsewhere in Europe.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pellegrino--davide-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pellegrino-davide/)
 
