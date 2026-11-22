@@ -34,7 +34,7 @@ Every Tuesday I pick one market event and measure it with the same method as my 
 
 - **Methods:** VaR and Expected Shortfall, backtesting, GARCH volatility models, event studies, difference-in-differences, credit scoring
 - **Tools:** Python (pandas, NumPy, statsmodels, scikit-learn, arch, pytest), Git, R, Stata, SQL, Excel, Power BI, Bloomberg (Market Concepts and ESG certified)
-- **Languages:** Italian (native), English (C1), French
+- **Languages:** Italian, English, French
 
 ## Background
 
